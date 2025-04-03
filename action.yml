@@ -1,0 +1,8 @@
+name: Device SBOM
+description: Generate SBOM for edge firmware images
+runs:
+  using: node20
+  main: dist/index.js
+permissions:
+  contents: read
+  security-events: write

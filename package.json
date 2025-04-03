@@ -1,0 +1,1 @@
+{"name":"t575-v3-device-sbom","private":true,"dependencies":{"@cyclonedx/cyclonedx-npm":"^1.19.0"}}
